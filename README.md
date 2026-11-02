@@ -27,3 +27,6 @@ This tool uses several amazing third-party assets. Please see the `THIRD-PARTY-L
 * **Legs Animator** by FImpossible Creations
 * **Unity Animation Rigging** by Unity Technologies
 * **UnityGLTF** by The Khronos Group
+
+
+<img width="1080" height="1080" alt="Animo Logo ICon" src="https://github.com/user-attachments/assets/3dfb7aaa-04a3-45fa-b547-b8b842494508" />
